@@ -21,7 +21,7 @@ Key Features:
 
 # Final Version
 
-To visit the website, [click here.](https://miroclone.vercel.app)
+To visit the website, [click here.](https://miroclone-ss.vercel.app)
 
 ### Cloning the repository
 
